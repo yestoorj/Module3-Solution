@@ -1,0 +1,59 @@
+body { 
+	/*padding-top:100px;
+	padding-bottom: 70px; */
+	margin: auto;
+}
+
+
+
+#chicken-tile{
+	background-color: #A9A9A9;
+	height:1000px;
+}
+
+
+/****HEADER****/
+
+#header-nav{
+	background-color: #A9A9A9;
+	border-radius: 0;
+	border-bottom: 2px solid #000000;
+}
+
+
+.navbar-brand{
+min-height:90px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar-brand h1{
+	color:#000000;
+	margin-top: 5px;
+}
+
+#nav-list{
+	background-color: #ffffff;
+	
+	font-size: 1.8em;
+	border: 0;
+	
+}
+#nav-list li{
+ border-top:1px solid black;
+}
+
+#collapsable-nav{
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+border:1px solid black;	
+
+}
+
+.navbar-header button.navbar-toggle{
+	clear:both;
+	margin-top:-60px;
+}
